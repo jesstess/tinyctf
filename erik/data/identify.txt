@@ -1,0 +1,130 @@
+Image: stego100
+  Format: PNG (Portable Network Graphics)
+  Class: DirectClass
+  Geometry: 640x480+0+0
+  Resolution: 72x72
+  Print size: 8.88889x6.66667
+  Units: Undefined
+  Type: Palette
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Red:
+      min: 0 (0)
+      max: 231 (0.905882)
+      mean: 45.6828 (0.179148)
+      standard deviation: 79.7918 (0.312909)
+      kurtosis: 0.206104
+      skewness: 1.36843
+    Green:
+      min: 0 (0)
+      max: 227 (0.890196)
+      mean: 37.1899 (0.145843)
+      standard deviation: 66.3653 (0.260256)
+      kurtosis: 1.41844
+      skewness: 1.65333
+    Blue:
+      min: 0 (0)
+      max: 231 (0.905882)
+      mean: 23.1846 (0.0909198)
+      standard deviation: 48.0561 (0.188455)
+      kurtosis: 4.17264
+      skewness: 2.21978
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 231 (0.905882)
+      mean: 35.3524 (0.138637)
+      standard deviation: 66.0315 (0.258947)
+      kurtosis: 1.91755
+      skewness: 1.80774
+  Colors: 42
+  Histogram:
+    210664: (  0,  0,  0) #000000 black
+       800: (  0,  0,132) #000084 srgb(0,0,132)
+      6152: (  0, 65,  0) #004100 srgb(0,65,0)
+       624: (  0, 65,165) #0041A5 srgb(0,65,165)
+      1800: (  0, 97,  0) #006100 srgb(0,97,0)
+        40: (  0,130,  0) #008200 srgb(0,130,0)
+      2156: (  0,162,  0) #00A200 srgb(0,162,0)
+       704: (  0,227,  0) #00E300 srgb(0,227,0)
+        88: (  2,  2,  2) #020202 srgb(2,2,2)
+      3236: ( 33, 32, 33) #212021 srgb(33,32,33)
+       232: ( 33, 97,231) #2161E7 srgb(33,97,231)
+      4412: ( 66, 65, 66) #424142 srgb(66,65,66)
+      1460: ( 99,  0,  0) #630000 srgb(99,0,0)
+      1032: ( 99, 97, 99) #636163 srgb(99,97,99)
+       252: (100,  2,  2) #640202 srgb(100,2,2)
+      2548: (132,  0,  0) #840000 srgb(132,0,0)
+     16692: (132, 65, 33) #844121 srgb(132,65,33)
+      3180: (132,130,132) #848284 srgb(132,130,132)
+       116: (133,  2,  2) #850202 srgb(133,2,2)
+        36: (133, 66, 35) #854223 srgb(133,66,35)
+      2340: (165, 32,  0) #A52000 srgb(165,32,0)
+       676: (165, 97, 33) #A56121 srgb(165,97,33)
+      3804: (165, 97, 66) #A56142 srgb(165,97,66)
+      2156: (165,130, 33) #A58221 srgb(165,130,33)
+      6272: (165,162,165) #A5A2A5 srgb(165,162,165)
+       240: (166, 34,  2) #A62202 srgb(166,34,2)
+        24: (166, 98, 67) #A66243 srgb(166,98,67)
+       844: (198, 97, 33) #C66121 srgb(198,97,33)
+       120: (198, 98, 35) #C66223 srgb(198,98,35)
+       300: (198,130, 33) #C68221 srgb(198,130,33)
+      8164: (198,130, 99) #C68263 srgb(198,130,99)
+         4: (198,131,100) #C68364 srgb(198,131,100)
+      1948: (198,195,198) #C6C3C6 srgb(198,195,198)
+       260: (231,130, 33) #E78221 srgb(231,130,33)
+         8: (231,131, 35) #E78323 srgb(231,131,35)
+      4076: (231,162,132) #E7A284 srgb(231,162,132)
+        72: (231,163,133) #E7A385 srgb(231,163,133)
+      8792: (231,195, 66) #E7C342 srgb(231,195,66)
+      2992: (231,227, 99) #E7E363 srgb(231,227,99)
+      2288: (231,227,132) #E7E384 srgb(231,227,132)
+      3912: (231,227,165) #E7E3A5 srgb(231,227,165)
+      1684: (231,227,231) #E7E3E7 srgb(231,227,231)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Compose: Over
+  Page geometry: 640x480+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2014-11-01T17:46:21-04:00
+    date:modify: 2014-11-01T17:46:21-04:00
+    hint: http://i.imgur.com/22kUrzm.png
+    png:cHRM                 : chunk was found (see Chromaticity, above)
+    png:gAMA                 : gamma=0.45454544 (See Gamma, above)
+    png:IHDR.bit_depth       : 8
+    png:IHDR.color_type      : 2 (Truecolor)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height    : 640, 480
+    png:sRGB                 : intent=0 (See Rendering intent)
+    png:text                 : 1 tEXt/zTXt/iTXt chunks were found
+    signature: 2429fc386f017a9ad83af59c0c24ad23a8bdcef103ee9ff2d3ec3d4f91b3bcbb
+  Artifacts:
+    filename: stego100
+    verbose: true
+  Tainted: False
+  Filesize: 26.9KB
+  Number pixels: 307K
+  Pixels per second: 30.72MB
+  User time: 0.010u
+  Elapsed time: 0:01.009
+  Version: ImageMagick 6.7.7-10 2014-03-06 Q16 http://www.imagemagick.org
